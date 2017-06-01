@@ -320,4 +320,8 @@ class serinfo {
     }
 
 }
+<<<<<<< HEAD
 // added comment in d drive
+=======
+//i am in e drive
+>>>>>>> 5dc0ba87c0bbbaa71286715b505bc3a2f064ff17
