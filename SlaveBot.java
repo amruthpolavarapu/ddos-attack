@@ -320,4 +320,8 @@ class serinfo {
     }
 
 }
+<<<<<<< HEAD
 //hellnoooooooo
+=======
+// hell
+>>>>>>> 9116052613281091ee70077ee632adb6a00b30c1
